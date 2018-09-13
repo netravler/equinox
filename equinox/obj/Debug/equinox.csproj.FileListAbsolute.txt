@@ -1,0 +1,27 @@
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\equinox\equinox\bin\Debug\equinox.exe
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\equinox\equinox\bin\Debug\equinox.pdb
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\equinox\equinox\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\equinox\equinox\obj\Debug\equinox.Acct.resources
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\equinox\equinox\obj\Debug\equinox.Form1.resources
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\equinox\equinox\obj\Debug\equinox.Properties.Resources.resources
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\equinox\equinox\obj\Debug\equinox.csproj.GenerateResource.Cache
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\equinox\equinox\obj\Debug\equinox.exe
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\equinox\equinox\obj\Debug\equinox.pdb
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\equinox\equinox\obj\Debug\equinox.institution.resources
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\equinox\equinox\obj\Debug\equinox.admin.resources
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\equinox\equinox\obj\Debug\equinox.application_switch.resources
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\equinox\equinox\bin\Debug\Database1.sdf
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\equinox\equinox\obj\Debug\equinox.mailsimple.resources
+C:\Users\pheintz\Visual Studio 2008\Projects\equinox\equinox\obj\Debug\equinox.exe
+C:\Users\pheintz\Visual Studio 2008\Projects\equinox\equinox\obj\Debug\equinox.pdb
+C:\Users\pheintz\Visual Studio 2008\Projects\equinox\equinox\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pheintz\Visual Studio 2008\Projects\equinox\equinox\obj\Debug\equinox.Acct.resources
+C:\Users\pheintz\Visual Studio 2008\Projects\equinox\equinox\obj\Debug\equinox.admin.resources
+C:\Users\pheintz\Visual Studio 2008\Projects\equinox\equinox\obj\Debug\equinox.application_switch.resources
+C:\Users\pheintz\Visual Studio 2008\Projects\equinox\equinox\obj\Debug\equinox.Form1.resources
+C:\Users\pheintz\Visual Studio 2008\Projects\equinox\equinox\obj\Debug\equinox.institution.resources
+C:\Users\pheintz\Visual Studio 2008\Projects\equinox\equinox\obj\Debug\equinox.mailsimple.resources
+C:\Users\pheintz\Visual Studio 2008\Projects\equinox\equinox\obj\Debug\equinox.Properties.Resources.resources
+C:\Users\pheintz\Visual Studio 2008\Projects\equinox\equinox\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\pheintz\Visual Studio 2008\Projects\equinox\equinox\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\pheintz\Visual Studio 2008\Projects\equinox\equinox\obj\Debug\equinox.csproj.GenerateResource.Cache

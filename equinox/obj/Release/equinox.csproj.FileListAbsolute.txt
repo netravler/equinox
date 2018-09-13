@@ -1,0 +1,14 @@
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\equinox\equinox\bin\Release\equinox.exe
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\equinox\equinox\bin\Release\equinox.pdb
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\equinox\equinox\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\equinox\equinox\obj\Release\equinox.Acct.resources
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\equinox\equinox\obj\Release\equinox.Form1.resources
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\equinox\equinox\obj\Release\equinox.institution.resources
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\equinox\equinox\obj\Release\equinox.Properties.Resources.resources
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\equinox\equinox\obj\Release\equinox.csproj.GenerateResource.Cache
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\equinox\equinox\obj\Release\equinox.exe
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\equinox\equinox\obj\Release\equinox.pdb
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\equinox\equinox\obj\Release\equinox.admin.resources
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\equinox\equinox\bin\Release\Database1.sdf
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\equinox\equinox\obj\Release\equinox.application_switch.resources
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\equinox\equinox\obj\Release\equinox.mailsimple.resources

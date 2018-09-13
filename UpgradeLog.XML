@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="equinox">
+</Property><Property Name="Solution File" Value="C:\Users\pheintz\Visual Studio 2008\Projects\equinox\equinox.sln">
+</Property><Property Name="User Options File" Value="C:\Users\pheintz\Visual Studio 2008\Projects\equinox\equinox.suo">
+</Property><Property Name="Date" Value="Monday, December 19, 2011">
+</Property><Property Name="Time" Value="14:23 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="equinox.sln" Description="File successfully backed up as C:\Users\pheintz\Visual Studio 2008\Projects\equinox\Backup\equinox.sln">
+</Event><Event ErrorLevel="0" Project="" Source="equinox.suo" Description="File successfully backed up as C:\Users\pheintz\Visual Studio 2008\Projects\equinox\Backup\equinox.suo">
+</Event><Event ErrorLevel="0" Project="equinox" Source="equinox\equinox.csproj" Description="Project file successfully backed up as C:\Users\pheintz\Visual Studio 2008\Projects\equinox\Backup\equinox\equinox.csproj">
+</Event><Event ErrorLevel="0" Project="equinox" Source="equinox\equinox.csproj.user" Description="Project user file successfully backed up as C:\Users\pheintz\Visual Studio 2008\Projects\equinox\Backup\equinox\equinox.csproj.user">
+</Event><Event ErrorLevel="0" Project="equinox" Source="equinox\Acct.cs" Description="File successfully backed up as C:\Users\pheintz\Visual Studio 2008\Projects\equinox\Backup\equinox\Acct.cs">
+</Event><Event ErrorLevel="0" Project="equinox" Source="equinox\Acct.Designer.cs" Description="File successfully backed up as C:\Users\pheintz\Visual Studio 2008\Projects\equinox\Backup\equinox\Acct.Designer.cs">
+</Event><Event ErrorLevel="0" Project="equinox" Source="equinox\admin.cs" Description="File successfully backed up as C:\Users\pheintz\Visual Studio 2008\Projects\equinox\Backup\equinox\admin.cs">
+</Event><Event ErrorLevel="0" Project="equinox" Source="equinox\admin.Designer.cs" Description="File successfully backed up as C:\Users\pheintz\Visual Studio 2008\Projects\equinox\Backup\equinox\admin.Designer.cs">
+</Event><Event ErrorLevel="0" Project="equinox" Source="equinox\application_switch.cs" Description="File successfully backed up as C:\Users\pheintz\Visual Studio 2008\Projects\equinox\Backup\equinox\application_switch.cs">
+</Event><Event ErrorLevel="0" Project="equinox" Source="equinox\application_switch.Designer.cs" Description="File successfully backed up as C:\Users\pheintz\Visual Studio 2008\Projects\equinox\Backup\equinox\application_switch.Designer.cs">
+</Event><Event ErrorLevel="0" Project="equinox" Source="equinox\DataSet1.Designer.cs" Description="File successfully backed up as C:\Users\pheintz\Visual Studio 2008\Projects\equinox\Backup\equinox\DataSet1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="equinox" Source="equinox\equinox_data_access.cs" Description="File successfully backed up as C:\Users\pheintz\Visual Studio 2008\Projects\equinox\Backup\equinox\equinox_data_access.cs">
+</Event><Event ErrorLevel="0" Project="equinox" Source="equinox\Form1.cs" Description="File successfully backed up as C:\Users\pheintz\Visual Studio 2008\Projects\equinox\Backup\equinox\Form1.cs">
+</Event><Event ErrorLevel="0" Project="equinox" Source="equinox\Form1.Designer.cs" Description="File successfully backed up as C:\Users\pheintz\Visual Studio 2008\Projects\equinox\Backup\equinox\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="equinox" Source="equinox\hashem.cs" Description="File successfully backed up as C:\Users\pheintz\Visual Studio 2008\Projects\equinox\Backup\equinox\hashem.cs">
+</Event><Event ErrorLevel="0" Project="equinox" Source="equinox\institution.cs" Description="File successfully backed up as C:\Users\pheintz\Visual Studio 2008\Projects\equinox\Backup\equinox\institution.cs">
+</Event><Event ErrorLevel="0" Project="equinox" Source="equinox\institution.Designer.cs" Description="File successfully backed up as C:\Users\pheintz\Visual Studio 2008\Projects\equinox\Backup\equinox\institution.Designer.cs">
+</Event><Event ErrorLevel="0" Project="equinox" Source="equinox\mailsimple.cs" Description="File successfully backed up as C:\Users\pheintz\Visual Studio 2008\Projects\equinox\Backup\equinox\mailsimple.cs">
+</Event><Event ErrorLevel="0" Project="equinox" Source="equinox\mailsimple.Designer.cs" Description="File successfully backed up as C:\Users\pheintz\Visual Studio 2008\Projects\equinox\Backup\equinox\mailsimple.Designer.cs">
+</Event><Event ErrorLevel="0" Project="equinox" Source="equinox\mail_subsystem.cs" Description="File successfully backed up as C:\Users\pheintz\Visual Studio 2008\Projects\equinox\Backup\equinox\mail_subsystem.cs">
+</Event><Event ErrorLevel="0" Project="equinox" Source="equinox\Program.cs" Description="File successfully backed up as C:\Users\pheintz\Visual Studio 2008\Projects\equinox\Backup\equinox\Program.cs">
+</Event><Event ErrorLevel="0" Project="equinox" Source="equinox\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\pheintz\Visual Studio 2008\Projects\equinox\Backup\equinox\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="equinox" Source="equinox\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\pheintz\Visual Studio 2008\Projects\equinox\Backup\equinox\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="equinox" Source="equinox\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\pheintz\Visual Studio 2008\Projects\equinox\Backup\equinox\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="equinox" Source="equinox\putscreengetscreen.cs" Description="File successfully backed up as C:\Users\pheintz\Visual Studio 2008\Projects\equinox\Backup\equinox\putscreengetscreen.cs">
+</Event><Event ErrorLevel="0" Project="equinox" Source="equinox\SmtpDirect.cs" Description="File successfully backed up as C:\Users\pheintz\Visual Studio 2008\Projects\equinox\Backup\equinox\SmtpDirect.cs">
+</Event><Event ErrorLevel="0" Project="equinox" Source="equinox\Properties\Settings.settings" Description="File successfully backed up as C:\Users\pheintz\Visual Studio 2008\Projects\equinox\Backup\equinox\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="equinox" Source="equinox\DataSet1.xsc" Description="File successfully backed up as C:\Users\pheintz\Visual Studio 2008\Projects\equinox\Backup\equinox\DataSet1.xsc">
+</Event><Event ErrorLevel="0" Project="equinox" Source="equinox\DataSet1.xsd" Description="File successfully backed up as C:\Users\pheintz\Visual Studio 2008\Projects\equinox\Backup\equinox\DataSet1.xsd">
+</Event><Event ErrorLevel="0" Project="equinox" Source="equinox\DataSet1.xss" Description="File successfully backed up as C:\Users\pheintz\Visual Studio 2008\Projects\equinox\Backup\equinox\DataSet1.xss">
+</Event><Event ErrorLevel="0" Project="equinox" Source="equinox\Resources\moon.jpg" Description="File successfully backed up as C:\Users\pheintz\Visual Studio 2008\Projects\equinox\Backup\equinox\Resources\moon.jpg">
+</Event><Event ErrorLevel="0" Project="equinox" Source="equinox\Resources\placeholder.bmp" Description="File successfully backed up as C:\Users\pheintz\Visual Studio 2008\Projects\equinox\Backup\equinox\Resources\placeholder.bmp">
+</Event><Event ErrorLevel="0" Project="equinox" Source="equinox\Database1.sdf" Description="File successfully backed up as C:\Users\pheintz\Visual Studio 2008\Projects\equinox\Backup\equinox\Database1.sdf">
+</Event><Event ErrorLevel="0" Project="equinox" Source="equinox\Acct.resx" Description="File successfully backed up as C:\Users\pheintz\Visual Studio 2008\Projects\equinox\Backup\equinox\Acct.resx">
+</Event><Event ErrorLevel="0" Project="equinox" Source="equinox\admin.resx" Description="File successfully backed up as C:\Users\pheintz\Visual Studio 2008\Projects\equinox\Backup\equinox\admin.resx">
+</Event><Event ErrorLevel="0" Project="equinox" Source="equinox\application_switch.resx" Description="File successfully backed up as C:\Users\pheintz\Visual Studio 2008\Projects\equinox\Backup\equinox\application_switch.resx">
+</Event><Event ErrorLevel="0" Project="equinox" Source="equinox\Form1.resx" Description="File successfully backed up as C:\Users\pheintz\Visual Studio 2008\Projects\equinox\Backup\equinox\Form1.resx">
+</Event><Event ErrorLevel="0" Project="equinox" Source="equinox\institution.resx" Description="File successfully backed up as C:\Users\pheintz\Visual Studio 2008\Projects\equinox\Backup\equinox\institution.resx">
+</Event><Event ErrorLevel="0" Project="equinox" Source="equinox\mailsimple.resx" Description="File successfully backed up as C:\Users\pheintz\Visual Studio 2008\Projects\equinox\Backup\equinox\mailsimple.resx">
+</Event><Event ErrorLevel="0" Project="equinox" Source="equinox\Properties\Resources.resx" Description="File successfully backed up as C:\Users\pheintz\Visual Studio 2008\Projects\equinox\Backup\equinox\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="equinox" Source="equinox\equinox.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="equinox" Source="equinox\equinox.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="equinox.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="equinox.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="equinox" Source="equinox\equinox.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
